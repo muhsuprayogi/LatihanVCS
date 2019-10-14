@@ -5,7 +5,7 @@ Dalam petunjuk ini, saya akan membahas bagaimana cara membuat repository baru
 Dimulai dari Instalasi perangkat lunak Git sampai repository baru dibuat. Di sini saya akan menggunakan Github.com sebagai VCS yang akan kita pakai dalam petunjuk ini, dan dengan menggunakan sistem operasi Windows. Mungkin cara yang akan saya gunakan disini akan sedikit berbeda dengan cara yang digunakan pada sistem operasi Linux dan Mac OS X.
 ## 1. Permulaan
 Pertama-tama kita akan menginstall perangkat lunak yang bernama "Git", silahkan anda download dari halaman " https://git-scm.com/download”tanpa tanda petik.
-![dwonload](D:/latihanvcs/latihanvcs/Img_1.png)
+![dwonload](https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_1.png)
 Silahkan anda download sesuai versi sistem operasi dan arsitektur yang anda pakai. Disini saya menggunakan sistem operasi Windows dengan arsitektur 64 bit.
 
 
